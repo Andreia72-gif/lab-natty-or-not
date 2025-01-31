@@ -20,19 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template Deia
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Video 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Video utilizando tecnologias de IA
 
 ## 🤖 Tecnologias Utilizadas
-HHHHHHHHH
+CHATGPT
+HEYGEN
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Utilizei o chatgpt para buscar o conteúdo e após utilizei oheygen para criar um video 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
